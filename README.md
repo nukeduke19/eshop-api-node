@@ -1,5 +1,13 @@
 # NodeJs: Build The Complete E-Commerce Web API
 
+### View the application
+
+<br>
+
+Live here 👇
+
+[![Live](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://eshop-by-anand-api.herokuapp.com/ "View Live")
+
 # Run
 
 ### Install
@@ -64,3 +72,23 @@ To login the user and get the auth token you can use:
 ```
 POST     /api/v1/users/login
 ```
+
+## Author
+
+**ANAND LAMANI**
+<br>
+<br>
+
+## 🔗 Links
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandlamanird19@gmail.com?subject=Hi "Hi!")
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-lamani "Welcome")
+<br>
+<br>
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
